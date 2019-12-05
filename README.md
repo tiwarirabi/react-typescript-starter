@@ -1,5 +1,4 @@
-##Phil Web React
-Phil Web written in React.
+React Typescript Starter
 
 #Running it locally.
 
