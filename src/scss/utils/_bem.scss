@@ -1,0 +1,12 @@
+//For Element
+@mixin e($element){
+	&__#{$element}{
+		@content;
+	}
+}
+//For Modifiers
+@mixin m($modifier){
+	&--#{$modifier}{
+		@content;
+	}
+}

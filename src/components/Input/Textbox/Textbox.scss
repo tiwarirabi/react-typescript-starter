@@ -1,0 +1,7 @@
+@import 'scss/utils/_index.scss';
+
+.Textbox {
+    @include e(text) {   
+        
+    }   
+}
