@@ -1,2 +1,2 @@
 #!/bin/sh
-docker run -p 3000:80 --name=phil-web -d -t philinc/phil-web:latest
+docker run -p 3000:80 --name=react-starter -d -t react/starter:latest
