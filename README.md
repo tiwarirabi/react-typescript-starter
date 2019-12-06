@@ -1,6 +1,6 @@
-React Typescript Starter
+## React Typescript Starter
 
-#Running it locally.
+# Running it locally.
 
 On Ubuntu:
 
