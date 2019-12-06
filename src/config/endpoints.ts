@@ -3,5 +3,5 @@ export interface IEndPoints {
 }
 
 export const EndPoints: IEndPoints = {
-    baseApiEndPoint: "https://phil.us/api"
+    baseApiEndPoint: "https://google.com/api"
 }
