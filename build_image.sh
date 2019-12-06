@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build -f Dockerfile -t philinc/phil-web:latest .
+docker build -f Dockerfile -t react/starter:latest .
